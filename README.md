@@ -10,7 +10,7 @@
 
 ### Olá, eu sou o Caio Felipe
 
-Sou tecnólogo em redes de computadores pelo SENAC Rio e tenho formação como programador Backend em Java pela EBAC. Também sou graduado em história pela Universidade Federal do Estado do Rio de Janeiro. Sou apaixonado por tecnologia, artes e história, além de ser um assíduo amante do Choro carioca e Samba. Botafoguense e carioca da gema.
+Sou tecnólogo em redes de computadores pelo SENAC Rio e tenho formação como programador Backend em Java pela EBAC. Também sou graduado em história pela Universidade Federal do Estado do Rio de Janeiro. Sou apaixonado por tecnologia, artes e história, além de ser um assíduo amante do Choro carioca e Samba. Botafoguense e carioca da gema. Meus principais interesses na area de tecnologia sao em programacao em Java, infraestrutura cloud e redes de computadores.
 
 Possuo algumas certificacoes de computacao em nuvem como AWS Cloud Practitioner, AWS Academy Cloud Architecting, Azure Fundamentals AZ-900 e Azure Data Fundamentals DP-900.
 
