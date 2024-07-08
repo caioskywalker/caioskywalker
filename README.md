@@ -1,14 +1,12 @@
 ### Olá eu sou o Caio Felipe 👋🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-f-farias-armando/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-f-farias-armando/)[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caioskywalker)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiof.farias/)
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caioskywalker)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiof.farias/)
+![caioskywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioskywalker&theme=dark&show_icons=true)
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) # caiof.farias@outlook.com
 
-![caioskywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioskywalker&theme=dark&show_icons=true)
+
 
 
 
