@@ -1,21 +1,36 @@
 
 
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
+<h2>Olá, eu sou o Caio Felipe 👋🏻</h2>
 
+<p>Graduadi como tecnólogo em redes de computadores pelo SENAC Rio e tenho formação como programador Backend em Java pela EBAC. Além disso, tenho licenciatura em história pela Universidade Federal do Estado do Rio de Janeiro. Sou apaixonado por tecnologia, artes e história, gosto de Choro carioca e Samba, torco pelo Botafogo de Futebol e Regatas e sou um carioca da gema.</p>
 
+<h3>Principais Interesses na Área de Tecnologia</h3>
 
+<p>Meus principais interesses na área de tecnologia incluem programação em Java, infraestrutura em nuvem e redes de computadores.</p>
 
+<h3>Certificações</h3>
 
+<ul>
+  <li>AWS Cloud Practitioner</li>
+  <li>AWS Academy Cloud Architecting</li>
+  <li>Azure Fundamentals AZ-900</li>
+  <li>Azure Data Fundamentals DP-900</li>
+</ul>
 
-### Olá, eu sou o Caio Felipe
+<p>Para ver todas as minhas certificações e badges, visite meu perfil no <a href="https://www.credly.com/users/caio-felipe-farias-armando/badges">Credly</a>.</p>
 
-Sou tecnólogo em redes de computadores pelo SENAC Rio e tenho formação como programador Backend em Java pela EBAC. Também sou graduado em história pela Universidade Federal do Estado do Rio de Janeiro. Sou apaixonado por tecnologia, artes e história, além de ser um assíduo amante do Choro carioca e Samba. Botafoguense e carioca da gema. Meus principais interesses na area de tecnologia sao em programacao em Java, infraestrutura cloud e redes de computadores.
+</body>
+</html>
 
-Possuo algumas certificacoes de computacao em nuvem como AWS Cloud Practitioner, AWS Academy Cloud Architecting, Azure Fundamentals AZ-900 e Azure Data Fundamentals DP-900.
-
-Para conferir todas minhas certificacoes e badges -> [Creedly
-](https://www.credly.com/users/caio-felipe-farias-armando/badges)
 
 ---
 
