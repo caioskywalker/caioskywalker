@@ -6,7 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiof.farias/)
 
-![caioskywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioskywalker&theme=aura_icons=true)
+![caioskywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioskywalker&theme=dark&show_icons=true)
 
 
 
