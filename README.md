@@ -33,9 +33,6 @@ Para conferir todas minhas certificacoes e badges -> [Creedly
   </a>
 </p>
 
----
-
-![caioskywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioskywalker&theme=dark&show_icons=true)
 
 ---
 
@@ -87,3 +84,4 @@ Para conferir todas minhas certificacoes e badges -> [Creedly
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 </p>
+
