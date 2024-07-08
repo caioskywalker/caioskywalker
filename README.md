@@ -1,4 +1,10 @@
-### Olá eu sou o Caio Felipe 👋🏻
+### Olá eu sou o Caio Felipe
+
+Sou tecnólogo em redes de computadores pelo SENAC Rio e tenho formação como programador Backend em Java pela EBAC. Também sou graduado em história pela Universidade Federal do Estado do Rio de Janeiro. Sou apaixonado por tecnologia, artes e história, além de ser um assíduo amante do Choro carioca e Samba. Botafoguense e carioca da gema.
+
+---
+
+## Links das minhas redes:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caio-f-farias-armando/">
@@ -27,6 +33,17 @@
 <p align="center">
   <strong>Email:</strong> caiof.farias@outlook.com
 </p>
+
+---
+
+## Sistemas Operacionais que utilizo
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+</p>
+
 
 
 
