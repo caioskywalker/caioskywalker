@@ -14,7 +14,7 @@ Sou tecnólogo em redes de computadores pelo SENAC Rio e tenho formação como p
 
 Possuo algumas certificacoes de computacao em nuvem como AWS Cloud Practitioner, AWS Academy Cloud Architecting, Azure Fundamentals AZ-900 e Azure Data Fundamentals DP-900.
 
-Para conferir minhas certificacoes e badges -> [Creedly
+Para conferir todas minhas certificacoes e badges -> [Creedly
 ](https://www.credly.com/users/caio-felipe-farias-armando/badges)
 
 ---
