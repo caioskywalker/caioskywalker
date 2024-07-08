@@ -24,6 +24,9 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>Email:</strong> caiof.farias@outlook.com
+</p>
 
 
 
