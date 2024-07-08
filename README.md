@@ -11,7 +11,7 @@
 
 <h2>Olá, eu sou o Caio Felipe 👋🏻</h2>
 
-<p>Graduadi como tecnólogo em redes de computadores pelo SENAC Rio e tenho formação como programador Backend em Java pela EBAC. Além disso, tenho licenciatura em história pela Universidade Federal do Estado do Rio de Janeiro. Sou apaixonado por tecnologia, artes e história, gosto de Choro carioca e Samba, torco pelo Botafogo de Futebol e Regatas e sou um carioca da gema.</p>
+<p>Graduado como tecnólogo em redes de computadores pelo SENAC Rio e tenho formação como programador Backend em Java pela EBAC. Além disso, tenho licenciatura em história pela Universidade Federal do Estado do Rio de Janeiro. Sou apaixonado por tecnologia, artes e história, gosto de Choro carioca e Samba, torco pelo Botafogo de Futebol e Regatas e sou um carioca da gema.</p>
 
 <h3>Principais Interesses na Área de Tecnologia</h3>
 
