@@ -8,7 +8,7 @@
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-[![caioskywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioskywalker&theme=dark&show_icons=true)
+![caioskywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioskywalker&theme=dark&show_icons=true)
 
 
 
