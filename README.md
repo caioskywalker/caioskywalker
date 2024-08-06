@@ -28,7 +28,7 @@
 
 <p>Para ver todas as minhas certificações e badges, visite meu perfil no <a href="https://www.credly.com/users/caio-felipe-farias-armando/badges">Credly</a>.</p>
 
-<p>Meu <a href="https://www.linkedin.com/in/caio-f-farias-armando/">Linkedin.</a>.</p>
+<p>Meu <a href="https://www.linkedin.com/in/caio-f-farias-armando/">Linkedin</a>.</p>
 
 </body>
 </html>
